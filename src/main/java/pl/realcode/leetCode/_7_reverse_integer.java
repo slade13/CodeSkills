@@ -1,7 +1,5 @@
 package pl.realcode.leetCode;
 
-import java.util.HashSet;
-
 public class _7_reverse_integer {
 
     static String intMax = String.valueOf(Integer.MAX_VALUE);
