@@ -12,6 +12,7 @@ public class _338_counting_bits {
         return result;
     }
 
+    // too complex
     private int countOnes(int i) {
         int result = 0;
         while (i != 0) {
