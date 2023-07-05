@@ -1,6 +1,6 @@
 package pl.realcode.leetCode;
 
-public class _9_string_to_integer_atoi {
+public class _8_string_to_integer_atoi {
 
     public int myAtoi(String s) {
         long result = 0;
